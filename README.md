@@ -1,5 +1,5 @@
 # class25
-## RV datra
+## RV data
 
 ```
 # tobs (day), rv (cm/s)
